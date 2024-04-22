@@ -5,7 +5,7 @@ This is a *demonstration repository* for students [Advanced GIS](https://ges.umb
 
 I use [dillonm.io](https://dillonm.io) as my academic home page, and [mapping.capital](https://mapping.capital) as my research home page.
 
-This `README.md` file is mainly useful for me as a place to put resources. 
+This [`README.md`](https://github.com/dillonma/dillonma.github.io/blob/master/README.md) file is mainly useful for me as a place to put resources. 
 
 ## Site links:
 
